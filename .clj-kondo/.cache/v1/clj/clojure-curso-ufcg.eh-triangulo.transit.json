@@ -1,0 +1,1 @@
+["^ ","~$eh_triangulo",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[3]],"~:name","^0","~:ns","~$clojure-curso-ufcg.eh-triangulo","~:top-ns","^7","~:arities",["^ ","~i3",["^ ","~:ret",["^4",["~:nil","~:boolean"]],"~:arglist-str","[a b c]"]],"~:type","~:fn"],"~:filename","/home/victru/dev/clojure/clojure-curso-ufcg/src/clojure_curso_ufcg/eh_triangulo.clj"]

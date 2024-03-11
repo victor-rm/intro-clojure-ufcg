@@ -1,0 +1,1 @@
+["^ ","~$fatorial",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$clojure-curso-ufcg.fatorial","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret",["^4",["~:number"]],"~:arglist-str","[n]"]],"~:type","~:fn"],"~:filename","/home/victru/dev/clojure/clojure-curso-ufcg/src/clojure_curso_ufcg/fatorial.clj"]

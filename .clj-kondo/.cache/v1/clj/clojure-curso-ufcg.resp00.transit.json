@@ -1,0 +1,1 @@
+["^ ","~$msg-rec",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$clojure-curso-ufcg.resp00","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:string","~:arglist-str","[msg]"]],"~:type","~:fn"],"~:filename","/home/victru/dev/clojure/clojure-curso-ufcg/src/clojure_curso_ufcg/resp01.clj"]
